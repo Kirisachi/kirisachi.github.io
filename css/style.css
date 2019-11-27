@@ -12,12 +12,12 @@ color: inherit;
   background-color: #7D869C;
   border: none;
   color: white;
-  padding: 10px 24px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 12px;
-  width: 150px;
+  width: 130px;
   margin: 4px 2px;
   cursor: pointer;
   -webkit-transition-duration: 0.4s;   /* Safari */
@@ -29,33 +29,39 @@ color: inherit;
   color: white;
 }
  
+ .img-circle {
+    border-radius: 50%;
+	width: 100px;
+	padding: 20px;
+	overflow: auto;
+}
+
  #container{
 	 background-color: ;
-	 width: 900px;
+	 width: 1500px;
 	 margin-left: auto;
 	 margin-right: auto;
-	 
  }
  
  #header{
 	background-color: ;
 	 color: white;
 	 text-align: center;
-	 padding: 100px
+	 padding: 50px
  }	 
  
  #content {
-		padding: 10px;
+		padding: 0px;
  }
  
  #nav {
-	 width:180px;
+	 width:10px;
 	 float: left;
 	 
  }
  
  #main {
-	 width:600px;
+	 width:650px;
 	 float: right;
 	 color: white;
  }
@@ -66,3 +72,15 @@ color: inherit;
 	padding: 100px;
 	text-align: right;
 }
+
+ #twit {
+	float: right;
+	padding-left: 100px;
+	padding-top: 150px
+ }
+ 
+ #pic {
+	width: 90px;
+	padding-left: 10;
+ }
+ 
