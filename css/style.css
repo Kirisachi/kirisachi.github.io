@@ -1,7 +1,8 @@
  body {
 	background-color: #7D869C;
 	font-family: 'Roboto', sans-serif;
-	
+	max-width: 100%;
+        height: auto;
  }
 
 a { 
