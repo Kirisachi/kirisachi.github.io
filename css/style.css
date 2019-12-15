@@ -73,13 +73,14 @@ color: inherit;
 #footer {
 	clear: both;
 	color: white;
-	padding: 100px;
+	padding: 10px;
 	text-align: right;
 }
 
  #twit {
 	float: right;
 	padding-left: 100px;
+	padding-right: 10px;
 	padding-top: 150px
  }
  
